@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic-Generals-TV" tvg-logo="" group-title="MOROCCO TV",==============MOROCCO TV==============
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,MOR:AlAoula Inter TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:AlAoula Laayoune TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:2M Maroc TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1,MOR:Arryadia TV
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Arrabiaa TV
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Al Maghribia TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Tamazight TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Assadissa TV
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Medi1 Maghreb TV
+https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8
+#EXTINF:-1,MOR:Medi1 Afrique TV
+http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
+#EXTINF:-1,MOR:Medi1 Afrique TV
+https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1763329609.m3u8
+#EXTINF:-1,MOR:Chada hdTV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
+#EXTINF:-1,MOR:Télé Maroc hdTV
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1,PLZ:RASD TV
+https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="News-TV" tvg-logo="" group-title="News-TV",•●●●★====News-TV====★●●●•
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,AR:Aljazeera hdTV
