@@ -27,6 +27,16 @@ https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1763329609.m3u8
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
 #EXTINF:-1,MOR:Télé Maroc hdTV
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="World Religieus TV" tvg-logo="" group-title="World Religieus TV",=====World Religieus TV===== 
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,UK:British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1,UK:Islam Channel
+http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
+#EXTINF:-1,UZ:Azon Islam TV
+https://tv2.azon.uz/med/stream.m3u8
+#EXTINF:-1,UK:Trinity channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="World News TV" tvg-logo="" group-title="World News TV",=====World News TV=====
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,AR:Aljazeera hdTV
