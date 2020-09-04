@@ -253,250 +253,114 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1,NZ:Parliament TV
 http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Kids TV" tvg-logo="" group-title="Kids TV",=====Kids TV=====
+#EXTINF:-1 tvg-ID="" tvg-name="WORLD-KIDS-TV" tvg-logo="" group-title="WORLD-KIDS-TV",===== WORLD-KIDS-TV =====
 http://api.oneiptv.tv/load.php?id=0
-#EXTINF:-1,AR:Toyour Baby TV
-http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
 #EXTINF:-1,AR:CN Arabic TV
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
 #EXTINF:-1,AR:Spacetoon TV
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
-#EXTINF:-1,AR:Spacetoon hdTV
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1,AR:MBC3 fhdTV
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1,TR:TRT Çocuk TV
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,TR:Minika Çocuk TV 
-http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
-#EXTINF:-1,KD:KurdMaxPoeple TV
-http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-#EXTINF:-1,FR:CanalJ TV
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1,FR:Disneycinema TV
-http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,FR:Teletoon++ TV
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1,FR:Nickelodeon-JR
-http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
+#EXTINF:-1,TR:TRT Çocuk TV
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TR:Minika Çocuk TV 
+http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
+#EXTINF:-1,IR:GEM Kids TV
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1,IR:Persiana Junior TV
+http://51.158.74.129/hls/stream.m3u8
+#EXTINF:-1,IL:ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1,UK:Nick Jr TV
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1,UK:POP UK TV
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1,UK:POP Max TV
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1,UK:Tiny Pop TV
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1,UK:TCT Kids TV
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1,BE:Kenet Kids TV
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
 #EXTINF:-1,BE:KenetJunior TV
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1,IT:Boing
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1,IT:Cartoonito TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1,IT:Raigulp TV
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1,IT:Raiyoyo TV
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1,SP:Boing TV
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1,SP:TVG Infantil
-http://tvpremiumhd.club/lista-gratuita/211531/on/live.php?id=infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,PR:KuriakosKids TV
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1,DE:Kika TV
-http://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8
-#EXTINF:-1,GK:Greekkids TV
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1,GK:Wzra kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1,AL:21Junior TV
-http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sl:Joj Kids TV
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-#EXTINF:-1,SR:Cartoonet TV
-http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:DisneyChannel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:Duck TV
-http://ott.artmott.com/ducktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:Jimjam TV
-http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:Junior TV
-http://84.22.33.210/junior.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:Pikaboo TV
-http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:Princekids TV
-http://ott.artmott.com/princekids/video.m3u8
-#EXTINF:-1,SR:TringKids TV
-http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:TringTring Kids TV
-http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UK:Baby First TV
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,UK:Cbeebies TV
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
-#EXTINF:-1,UK:Cbeebies TV
-http://51.52.156.22:8888/http/003
-#EXTINF:-1,UK:POP TV
-http://51.52.156.22:8888/http/015
-#EXTINF:-1,UK:Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1,UK:Disney Channel
-http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,UK:Disney Junior TV
-http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1,UK:Disney XD TV
-http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
-#EXTINF:-1,UK:Nickelodeon TV
-http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,UK:Nick Junior TV
-http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,UK:Nicktoons TV
-http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,CA:ExelDiscovery TV
-http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
-#EXTINF:-1,CA:KnowledgeNetwork
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1,US:3ABNKids TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+#EXTINF:-1,BG:EKids TV
+https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
+#EXTINF:-1,US:3ABN Kids TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1,US:Boomerang TV
 http://27.254.130.64/live01///////////ch18.m3u8?p=?
-#EXTINF:-1,US:Boomerang TV
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-#EXTINF:-1,US:Boomerang hdTV
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1,US:Boomerang TV
-http://95.170.215.118:80/hls/m3u8/Boomerang.m3u8
-#EXTINF:-1,US:CN TV
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-#EXTINF:-1,US:KartoonFunTime TV
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
-#EXTINF:-1,US:DavinciKids TV
-http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1,US:Duck hdTV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1,US:Okto TV
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1,US:Gulli Girl TV
-http://178.124.183.12/hls/7FFGONY2N8/bw2000000/playlist.m3u8
-#EXTINF:-1,US:Nicktoons TV
-http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,US:Nick Junior TV
-https://213.252.252.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,US:Nickelodeon Rus 
-http://213.252.252.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1,US:PBS Kids TV
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:PBS Kids hdTV
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1,US:TCT Kids TV
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF:-1,US:TCT Kids TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1,US:TCT:Kids TV
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1,La:Canal4 Jujuy
-http://5cd577a3dd8ec.streamlock.net:1935/canal4/smil:manifest.smil/chunklist.m3u8
+#EXTINF:-1,US:TVO Kids TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1,US:ZooMoo TV
+http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
+#EXTINF:-1,CA:ExelDiscovery TV
+http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
 #EXTINF:-1,La:Canal Infatal
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,La:Central Kids TV
-http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
-#EXTINF:-1,La:CN3 TV
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1,La:Dubbi Kids TV
-https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
+#EXTINF:-1,Lat:Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1,La:LogoskidsHD TV
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1,La:WoW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Ru:Kitnet Junior TV
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1,RU:Cartoon Network
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
-#EXTINF:-1,RU:Мульт
-http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
-#EXTINF:-1,RU:Boomerang
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
-#EXTINF:-1,RU:Gulli Girl
-http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
-#EXTINF:-1,RU:Tiji TV
-http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
-#EXTINF:-1,RU:Малятко
+#EXTINF:-1,RU:Malyatko TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1,RU:СКАЗКИ ЗАЙКИ
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1,UC:Lale TV
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:-1,UC:Lale TV
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1,UC:Niki Kids hdTV
-http://54.36.109.228/20600/mono.m3u8
-#EXTINF:-1,UC:Niki Junior hdTV
-http://54.36.109.228/20700/mono.m3u8
-#EXTINF:-1,CN:Miaomi TV
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
+#EXTINF:-1,HI:Akaram TV
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,HI:Animax TV
+http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+#EXTINF:-1,HI:Disney Channel
+http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1,HI:IBC Kids TV
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+#EXTINF:-1,Shemaroo Kids TV
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1,CN:Battery Pop TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1,CN:CCTV14 Kids TV
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1,CN:kabillion TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1,CN:Toonmax TV
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1,CN:Zein Kids
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1,JP:AniPlus hdTV
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8?
+#EXTINF:-1,CN:Zohi Kids TV
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1,CN:优漫卡通
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1,CN:嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1,CN:优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1,CN:北京卡酷少儿
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
 #EXTINF:-1,KR:EBS Kids TV
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,KR:EBSKids TV
+#EXTINF:-1,KR:EBS Kids TV
 http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1,KR:My Kids TV
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1,HI:Akaram kidz TV
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1,HI:DiscoveryKids TV
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1,SG:IBC Kids TV
-https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
-#EXTINF:-1,ID:KidsChannel
-https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
-#EXTINF:-1,ID:My Kids TV
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1,PH:AniPlus hdTV
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8?
+#EXTINF:-1,PH:AniPlus hdTV
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 #EXTINF:-1,TH:CartoonClub TV
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w318672.m3u8
-#EXTINF:-1,Shemaroo Kids TV
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Vod Kids" tvg-logo="" group-title="Vo Kids",=====Vod Kids=====
-http://api.oneiptv.tv/load.php?id=0
-#EXTINF:-1,VodKids:Cartoons 4U TV
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,VodKids:KartoonFunTime TV
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Vodkids:KORUKO'S BASKETBALL
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Vodkids:Tom And Jerry TV
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1,Vodkids:Ben 10
-http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
-#EXTINF:-1,Vodkids:BORUTO NEXT GENERATION
-http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
-#EXTINF:-1,Vodkids:CAPTAIN TSUBASA 2019
-http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-#EXTINF:-1,Vodkids:DETECTIFE CONAN 1
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1,Vodkids:DETECTIFE CONAN 2
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-#EXTINF:-1,Vodkids:DETECTIFE CONAN 3
-http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:-1,Vodkids:DORAEMON MOVIE
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-#EXTINF:-1,Vodkids:DORAEMON SERIES
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:-1,Vodkids:HUNTER X HUNTER
-http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:-1,Vodkids:INUYASHA
-http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-#EXTINF:-1,Vodkids:LARVA TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1,Vodkids:ONE PIECE TV
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-#EXTINF:-1,Vodkids:ONE PUNCH MAN
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
-#EXTINF:-1,Vodkids:TOTALLY SPIES
-http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-#EXTINF:-1,Vodkids:
-http://111.40.205.76/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1,Vodkids:BTV Kabul
-http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1,Vodkids:China
-http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1,Vodkids:China
-http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1,Vodkids:Blackberry
-http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1,Vodkids:
-http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1,Vodkids:Frozen2
 https://cdn.clonefile.icu/drive/index.php?id=dpxSP2ikcJ9JxvGKY7Sp8gKxTN%2FQ9PW43hc%2BrbslMuIMYvuu6WJIxEFbjG1EZrs%2FpiM%2FhiHkOB7ZytRxH6%2Fe124t25hsRLeFBwU0I8EBhq8XNCRXpWqyWx85UXfecqUk23%2FGDHYnegcnOOwDz637%2Fxh4AP586DysVpEBuvn1hR91WupMmBu621m1%2BfTjNPU6sAqNwYOgX8rpmvL%2FHqYDAW&ref=https%3A%2F%2Fdoimovie.com%2Ffrozen-ii-2019%2F&res=default
 #EXTINF:-1 tvg-ID="" tvg-name="Documentary&Education TV" tvg-logo="" group-title="Documentary&Education TV",====Documentary&Education TV====
