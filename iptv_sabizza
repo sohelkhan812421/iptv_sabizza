@@ -375,330 +375,204 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 http://v3.catcast.me/content/36628/index.m3u8
 #EXTINF:-1,Vodkids:Frozen2
 https://cdn.clonefile.icu/drive/index.php?id=dpxSP2ikcJ9JxvGKY7Sp8gKxTN%2FQ9PW43hc%2BrbslMuIMYvuu6WJIxEFbjG1EZrs%2FpiM%2FhiHkOB7ZytRxH6%2Fe124t25hsRLeFBwU0I8EBhq8XNCRXpWqyWx85UXfecqUk23%2FGDHYnegcnOOwDz637%2Fxh4AP586DysVpEBuvn1hR91WupMmBu621m1%2BfTjNPU6sAqNwYOgX8rpmvL%2FHqYDAW&ref=https%3A%2F%2Fdoimovie.com%2Ffrozen-ii-2019%2F&res=default
-#EXTINF:-1 tvg-ID="" tvg-name="Documentary&Education TV" tvg-logo="" group-title="Documentary&Education TV",====Documentary&Education TV====
+#EXTINF:-1 tvg-ID="" tvg-name="DOCUMENTARY & EDUCATION" tvg-logo="" group-title="DOCUMENTARY & EDUCATION",===== DOCUMENTARY & EDUCATION =====
 http://api.oneiptv.tv/load.php?id=0
-#EXTINF:-1,5MinLifeHacks TV
-https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
-#EXTINF:-1,Big Life TV
-http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Jwish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1,Lindenwood University TV
-https://lindenwood-lh.akamaihd.net/i/lindenwood_1@728008/master.m3u8
 #EXTINF:-1,MR:Arrabiaa TV
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,UA:NatGeo Arabic hdTV
-http://livecdnH2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
-#EXTINF:-1,US:Nat Geo hdTV
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF: -1,US:NatGeo People hdTV
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,US:NatGeo Wild hdTV
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,US NatGeo Wild sdTV
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1,US NatGeo WildAsie sdTV
-http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
-#EXTINF:-1,US:Animal Planet hdTV
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
-#EXTINF:-1,US:Animal Planet hdTV
-http://84.22.33.254/unicast.animalplanet/index.m3u8
-#EXTINF:-1,US:Animal Planet Rus TV
-http://176.125.113.185:4200/udp/239.54.6.94:1234
-#EXTINF:-1,US:Animal Planet hdTV
-http://cdn.ottg.tv/5474/video.m3u8?username=kancegrad&password=0937669496A&token=48954eb09c3afa77b49a771dba50bbbf&ch_id=500
-#EXTINF:-1,US:FishingAndHunt TV
-http://95.170.215.118:80/hls/m3u8/Fishing-And-Hunt.m3u8
-#EXTINF:-1,US:Gone Fishing TV
-https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Gone Hunting TV
-https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Hunt TV
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1,US:ViasatNature sdTV
-http://213.252.252.2/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1,US:ViasatNature sdTV
-https://213.252.252.2/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1,BG:NGC Wild Bulgaria
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:-1,US:AKC Dog TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1,US:TBD Cat TV
+#EXTINF:-1,US:Cat TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,US:Docubox sdTV
-http://livecdnh3.tvanywhere.ae/hls/docubox/02.m3u8
-#EXTINF:-1,US:Docubox hdTV
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1,US:ID HDTV
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1,US:DiscoveryCH TV
-http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
-#EXTINF:-1,US:DiscoveryCH TV
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1,US:DiscoveryCH Esp TV
-http://91.126.141.12:1935/live/discovery/chunklist_w1533265882.m3u8
-#EXTINF:-1,US:DiscoveryScience TV
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-#EXTINF:-1,US:DiscoveryShowcase TV
-http://95.170.215.118:80/hls/m3u8/Discovery-Showca.m3u8
-#EXTINF:-1,US:DiscoveryTurbo TV
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1,US:History02 hdTV
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1,US:Docurama TV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1,US:Docurama TV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1,US:Love Nature Eng 4K TV
-http://cdn.ottg.tv/1893/video.m3u8?username=kancegrad&password=0937669496A&token=48954eb09c3afa77b49a771dba50bbbf&ch_id=694
-#EXTINF:-1,US:Love Nature Eng 4K TV
-http://cdn.ottg.tv/1893/video.m3u8?username=kancegrad&password=0937669496A&token=48954eb09c3afa77b49a771dba50bbbf&ch_id=694&req_host=pkjX3BL
-#EXTINF:-1,US:Silence Eng TV
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1,US:Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:NASA TV 
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,US:NASA hdTV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1,US:FailArmy TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,US:Food52 TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,US:Tastemade Food TV
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Cooking TV
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:CookingOutDour TV
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,US:TastyTrade EduTV
-https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,US:Beach Panama TV
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,US:Documentaries 4U TV
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1,US:Living Outdoors TV
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Travel 4U
-https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Chandler TV
-https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
-#EXTINF:-1,US:GreenSboro TV
-http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:-1,US:Lex TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
-#EXTINF:-1,US:Red Advenir TV
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,US:AmazingDiscovery TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1,US:SuerYacht hdTV
-http://12858.cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-#EXTINF:-1,UK:BBC Earth1 HDTV
-https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
-#EXTINF:-1,UK:BBC Earth2 TV
-http://anevia115.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1,UK:English Club TV
-http://54.36.109.228/20900/mono.m3u8
-#EXTINF:-1,UK:FoodNetwork TV
-http://95.86.32.7:999/food
-#EXTINF:-1,UK:People hdTV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1,DE:kultur Md TV
-http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-#EXTINF:-1,DE:Health TV
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1,BG:NGC Bulgaria
+https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
+#EXTINF:-1,VT:NGC Vietnam 
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+#EXTINF:-1,CN:NGC China
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo?auth=zarin:RJsKR
 #EXTINF:-1,PR:Odisseia Eng hdTV
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
-#EXTINF:-1,IT:Eslife TV
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?
-#EXTINF:-1,CZ:Natura TV
-http://media1.tvnatura.cz/live_out/1/live.m3u8
-#EXTINF:-1,CZ:Viasat Nature sdTV
-https://plbl.m9.lfstrm.tv/viasat_nature/normal/1/index.m3u8
-#EXTINF:-1,SP:Andalucia Cocina TV
-https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
-#EXTINF:-1,SP:Canal Sur Cocina
-http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
-#EXTINF:-1,SP:Canal Sur Turismo
-http://593fa17dec176.streamlock.net:1935/csturismo/csturismo.stream/playlist.m3u8
-#EXTINF:-1,SP:DMax TV
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
-#EXTINF:-1,PR:CacaPesca hdTV
+#EXTINF:-1,SP:Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1,SP:Cazavision España
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+#EXTINF:-1,PR:Cazavision Portugal
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1,Lat:Agrobrasil TV
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,Lat:Cultura24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1,Lat:BeMad TV HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1,Lat:Cultura24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1,Lat:HistoryLab TV
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,Lat:STVE brTV
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,NO:Norway Live TV
-http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
-#EXTINF:-1,Bul:Travel BulguariaTV
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1,Bul:Travel Bulguaria hdTV
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1,IT:DMAX sdTV
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1,IT:Uninettuno TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1,TR:DMAX sdTV
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
-#EXTINF:-1,TR:TGRT Belgesel TV
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:-1,TR:Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
-#EXTINF:-1,CN:CGNTV Documentary
-http://live.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,CN:NGC China TV
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo?auth=zarin:RJsKR
-#EXTINF:-1,VT:Foodiee TV
-http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
-#EXTINF:-1,ID:LiveStyle hdTV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1,HI:DiscoveryEng Asia TV
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1,HI:VYAS HSE TV
-http://playhls.media.nic.in/live/vyas/index.m3u8
-#EXTINF:-1,RU:Animal Planet TV
-http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,RU:DTX TV
-http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,RU:DiscoveryCh TV
-http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,RU:DiscoveryCh hdTV
-https://plbl.m9.lfstrm.tv/discovery_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1,RU:Hunt & Fishing TV
-rtmp://193.169.178.29/podsekaiTV/chanelSD
-#EXTINF:-1,RU:ViasatExploreHD TV
-http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-1,RU:ViasatHistoryHD TV
-http://178.124.183.14/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:-1,RU:Ohotnik TV
-https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
-#EXTINF:-1,RU:Ohotnik HD TV
-http://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1,RU:Sibir Nature FDTV
-http://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1,RU:Luxury HDTV
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,RU:RT Documentary TV
+#EXTINF:-1,CZ:Hunter TV
+http://www.huntertv.cz/live/4-playlist.m3u8
+#EXTINF:-1,US:Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1,SR:FineLiving TV
+http://5.135.92.133:52841/out/u/498_1.m3u8
+#EXTINF:-1,IT:Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1,IT:Discovery MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,IT:Discovery Nove TV
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1,IT:Discovery Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1,IT:DMAX Italia
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1,SP:DMAX España
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:-1,TR:DMAX Turc sdTV
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
+#EXTINF:-1,TR:DMAX Turc TV
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1,De:kultur Md TV
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1,IR:Persiana Documentary
+http://163.172.174.60/hls/stream.m3u8
+#EXTINF:-1,RU:RT Documentary
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,RU:RT Documentary hdTV
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1,RU:RT Documentary TV
-https://rt-doc.secure.footprint.net/1101.m3u8
-#EXTINF:-1,RU:Ocean HD TV
-rtmp://oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd
-#EXTINF:-1,RU:National Geographic
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:-1,RU:Nat Geo Wild
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:-1,RU:Univer Animal TV
-http://ott-stream.sevstar.net/2055/video.m3u8?token=8330162968
-#EXTINF:-1,RU:TLC HD
-http://213.234.9.46:7088/udp/239.1.11.4:1234
-#EXTINF:-1,RU:Galaxy TV
-http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
-#EXTINF:-1,RU:Oхотник и Рыболов HD
-http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
-#EXTINF:-1,RU:Охота и Рыбалка
-http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
-#EXTINF:-1,RU:Оружие TV
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
-#EXTINF:-1,RU:Трофей HD
-http://54.36.109.228/20100/mono.m3u8
-#EXTINF:-1,RU:Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,RU:Travel & Adventure TV
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,RU:Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1,RU:Buy Home TV
-http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
-#EXTINF:-1,RU:Неизвестная планета
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1,RU:Моя Планета
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,RU:MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,RU:CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,RU:Ocean TV
-http://91.192.168.242:9091
-#EXTINF:-1,RU:Ocean TV HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1,RU:Naroddip
-http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1,RU:Красная линия ТВ
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,RU:Наш Дом HD
-http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1,RU:Luxury TV
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,RU:РЖД ТВ HD
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1,RU/ЕДА ПРЕМИУМ HD
-http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
-#EXTINF:-1,RU:Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1,RU:ZOO TV
-http://188.43.116.250:8080/zoo_tv/index.m3u8
-#EXTINF:-1,RU:ANKAR Chasse fhdTV
-http://78.141.211.61:4000/35
-#EXTINF:-1,RU:ANKAR Pèche fhdTV
-http://78.141.211.61:4000/36
-#EXTINF:-1,RU:Travel ru TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1,RU:Bambrdia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,CN:CCGNT Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,CN:CCT09 TV
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1,CN:CNEX Taiwan
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF:-1,CN:New TV
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1,HI:Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1,LO:Laos Planet TV
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+#EXTINF:-1,US:People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,US:Docurama TV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1,La:Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1,La:Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1,IT:HistoryLab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,HI:Safari TV
+https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/fc1e82b9a18586b50eb40c3867a61bc9.sdp/safari/7458b29278e8549fe2d0fe7ab8eb3e78.sdp/chunks.m3u8
+#EXTINF:-1,NO:Norway Live TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1,AL:Alb Culture hdTV
+http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
 #EXTINF:-1,RO:Arcadia World TV
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:-1,RO:Arcadia World fhdTV
 http://89.38.8.131:39553
 #EXTINF:-1,RO:Travel Mix TV
 http://89.38.8.131:39520
-#EXTINF:-1,RO:Agro fhdTV
+#EXTINF:-1,RO:East fhdTV
 http://89.38.8.131:39519
-#EXTINF:-1,HU:Pèche et Chasse TV
-https://redirect.onlinestream.live/hbbtv-as.cgi?id=pvtv
+#EXTINF:-1,BG:Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1,BG:Travel BulguariaTV
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,LA:TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,CN:China Travel TV
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1,UC:BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,UC:Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,RU:Travel & Adventure TV
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,RU:Diving TV
+https://strm.yandex.ru/kal/diving/diving0.m3u8
+#EXTINF:-1,RU:Ocean hdTV
+rtmp://oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd
+#EXTINF:-1,RU:Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,RU:Ohotnik TV
+https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
+#EXTINF:-1,RU:Ohotnik HD TV
+http://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1,RU:podsekai TV
+rtmp://193.169.178.29/podsekaiTV/chanelSD
+#EXTINF:-1,RU:TV Tour
+https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
+#EXTINF:-1,RU:Luxury HDTV
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,RU:Sibir Nature hdTV
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1,RU:Sibir Nature fhTV
+http://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1,US:Silence Eng TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,US:SuerYacht hdTV
+http://12858.cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1,US:Chef Champion TV
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+#EXTINF:-1,US:CookingOutDour TV
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1,US:Food52 TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,UK:FoodNetwork TV
+http://95.86.32.7:999/food
+#EXTINF:-1,US:Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,US:Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,US:Beach Panama TV
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1,CA:Better Nature TV
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-#EXTINF:-1,AL:Alb Culture hdTV
-http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
-#EXTINF:-1,AM:ArtDoku1 TV
-http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AM:ArtDoku2 TV
-http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:CrimeAndInvestigation
-http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:ExploreShkence TV
-http://84.22.33.210/shkence.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:FineLiving TV
-http://5.135.92.133:52841/out/u/498_1.m3u8
-#EXTINF:-1,SR:HistoryChannel
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:ID TV
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:Natyra TV
-http://84.22.33.210/natyra.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:TringHistory TV
-http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:TringPlanet TV
-http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SR:TringWorld TV
-http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CZ:Discovery Channel
-http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1,IR:IRIB OFOGH TV
-https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,La:Red Advenir TV
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,US:NASA TV 
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,US:NASA hdTV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1,US:FailArmy TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,US:GreenSboro TV
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1,US:Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:-1,RU:Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,KR:EBSe TV
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,KR:EBSi TV
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,TW:Edu Taiwan TV
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+#EXTINF:-1,HI:Vyas HEC TV
+https://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1,De:Health TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1,CZ:Natura TV
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF:-1,La:Cultura24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+#EXTINF:-1,La:Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1,La:Sesc TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:-1,La:TV Cultura
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
+#EXTINF:-1,La:TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,La:TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,La:TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1,La:TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1,La:TV UFSC
+http://150.162.188.10:8080/hls/1.m3u8
+#EXTINF:-1,La:TV UNESP
+https://video.unesp.br/live/indoor.m3u8
+#EXTINF:-1,La:TV UNISC
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1,La:TVU Recife
+http://150.161.93.220/hls/1080/index.m3u8
+#EXTINF:-1,La:UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-ID="" tvg-name="World Sports TV" tvg-logo="" group-title="World Sports TV",=====World Sports TV=====
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,AR:Arryadia Maroc tv
